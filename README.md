@@ -1,6 +1,8 @@
 **Корпус №1**
 
-* https://streams.kpi.ua/video/webcam-b1-cam1.m3u8 — aleya slavu 35
+<a href="https://streams.kpi.ua/video/webcam-b1-cam1.m3u8" target="_blank">aleya slavu 35</a>
+
+*  — ()
 
 * https://streams.kpi.ua/video/webcam-b1-cam3.m3u8 — 1 korpus MUF 8
 
