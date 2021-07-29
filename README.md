@@ -43,7 +43,7 @@
 * [12-й корпус](https://streams.kpi.ua/video/webcam-b12-cam1.m3u8)
 * [Политехническая, 12](https://streams.kpi.ua/video/webcam-b12-cam2.m3u8)
 * [Политех и Янгель](https://streams.kpi.ua/video/webcam-b12-cam3.m3u8)
-* [Парк им. Телиги](https://streams.kpi.ua/video/webcam-b12-cam4.m3u8)
+* [Парк им. Телиги (не работает)](https://streams.kpi.ua/video/webcam-b12-cam4.m3u8)
 
 **Корпус №14**
 * [Политехническая, 14](https://streams.kpi.ua/video/webcam-b14-cam1.m3u8)
@@ -52,7 +52,7 @@
 * [Политехническая, 16](https://streams.kpi.ua/video/webcam-b16-cam1.m3u8)
 
 **Корпус №17**
-* [Политехническая, 17](https://streams.kpi.ua/video/webcam-b17-cam1.m3u8)
+* [Политехническая, 17 (не работает)](https://streams.kpi.ua/video/webcam-b17-cam1.m3u8)
 
 **Корпус №18**
 * [18-й корпус](https://streams.kpi.ua/video/webcam-b18-cam2.m3u8)
