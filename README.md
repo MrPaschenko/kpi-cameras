@@ -64,7 +64,7 @@
 **Корпус №25**
 * [Park Sosnoviy 2 49](https://streams.kpi.ua/video/webcam-b25-cam1.m3u8)
 * [Park Sosnoviy 48](https://streams.kpi.ua/video/webcam-b25-cam2.m3u8)
-* [smth](https://streams.kpi.ua/video/webcam-b25-cam3.m3u8)
+* [PARK COCUNKU](https://streams.kpi.ua/video/webcam-b25-cam3.m3u8)
 * [Park Sosnoviy 3 51](https://streams.kpi.ua/video/webcam-b25-cam4.m3u8)
 
 **КНУ**
