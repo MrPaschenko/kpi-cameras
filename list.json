@@ -1,0 +1,138 @@
+[
+	{
+		"id": 0101,
+		"name": "Аллея славы",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam1.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0103,
+		"name": "1-й корпус",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam3.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0104,
+		"name": "Парковка за 1-м корпусом",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam4.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0105,
+		"name": "Бухгалтерия",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam5.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0106,
+		"name": "Вежа 2",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam6.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0107,
+		"name": "Вежа",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam7.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0108,
+		"name": "Внутренний дворик 2",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam8.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0109,
+		"name": "Внутренний дворик",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam9.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0110,
+		"name": "Внутр.",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam10.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0111,
+		"name": "Чёрный выход",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam11.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0112,
+		"name": "Парадный",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam12.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0113,
+		"name": "Парковка 1",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam13.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	},
+	{
+		"id": 0114,
+		"name": "Парковка 2",
+		"link": "https://streams.kpi.ua/video/webcam-b1-cam14.m3u8",
+		"coordinates": {
+			"longitude": 0,
+			"latitude": 0
+		}
+	}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
