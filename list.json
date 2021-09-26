@@ -1,416 +1,416 @@
 [
-	{
-		"id": 10101,
-		"name": "Аллея славы",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam1.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10103,
-		"name": "1-й корпус",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam3.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10104,
-		"name": "Парковка за 1-м корпусом",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam4.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10105,
-		"name": "Бухгалтерия",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam5.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10106,
-		"name": "Вежа 2",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam6.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10107,
-		"name": "Вежа",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam7.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10108,
-		"name": "Внутренний дворик 2",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam8.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10109,
-		"name": "Внутренний дворик",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam9.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10110,
-		"name": "Внутр.",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam10.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10111,
-		"name": "Чёрный выход",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam11.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10112,
-		"name": "Парадный",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam12.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10113,
-		"name": "Парковка 1",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam13.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10114,
-		"name": "Парковка 2",
-		"link": "https://streams.kpi.ua/video/webcam-b1-cam14.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10401,
-		"name": "4-й корпус",
-		"link": "https://streams.kpi.ua/video/webcam-b4-cam1.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10402,
-		"name": "Ворота КПИ 1",
-		"link": "https://streams.kpi.ua/video/webcam-b4-cam2.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10403,
-		"name": "Ворота КПИ 2",
-		"link": "https://streams.kpi.ua/video/webcam-b4-cam3.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10405,
-		"name": "Шлагбаум",
-		"link": "https://streams.kpi.ua/video/webcam-b4-cam5.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10406,
-		"name": "Шлагбаум",
-		"link": "https://streams.kpi.ua/video/webcam-b4-cam6.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10601,
-		"name": "Вертолёт",
-		"link": "https://streams.kpi.ua/video/webcam-b6-cam1.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10602,
-		"name": "Патон",
-		"link": "https://streams.kpi.ua/video/webcam-b6-cam2.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10603,
-		"name": "Паровоз",
-		"link": "https://streams.kpi.ua/video/webcam-b6-cam3.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10604,
-		"name": "Парк",
-		"link": "https://streams.kpi.ua/video/webcam-b6-cam4.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10702,
-		"name": "Вход",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam2.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10703,
-		"name": "Площадь Знаний",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam3.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10704,
-		"name": "Лифт",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam4.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10705,
-		"name": "Боковой вход",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam5.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10706,
-		"name": "Аллея за ДК",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam6.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10707,
-		"name": "Бювет",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam7.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10708,
-		"name": "Столовая",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam8.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10709,
-		"name": "Холл",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam9.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10710,
-		"name": "Выход",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam10.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 10711,
-		"name": "Выход",
-		"link": "https://streams.kpi.ua/video/webcam-b7-cam11.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 11201,
-		"name": "12-й корпус",
-		"link": "https://streams.kpi.ua/video/webcam-b12-cam1.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 11202,
-		"name": "Политехническая, 12",
-		"link": "https://streams.kpi.ua/video/webcam-b12-cam2.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 11203,
-		"name": "Политех и Янгель",
-		"link": "https://streams.kpi.ua/video/webcam-b12-cam3.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 11204,
-		"name": "Парк им. Телиги (не работает)",
-		"link": "https://streams.kpi.ua/video/webcam-b12-cam4.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 11401,
-		"name": "Политехническая, 14",
-		"link": "https://streams.kpi.ua/video/webcam-b14-cam1.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 11601,
-		"name": "Политехническая, 16",
-		"link": "https://streams.kpi.ua/video/webcam-b16-cam1.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 11701,
-		"name": "Политехническая, 17 (не работает)",
-		"link": "https://streams.kpi.ua/video/webcam-b17-cam1.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 11802,
-		"name": "18-й корпус",
-		"link": "https://streams.kpi.ua/video/webcam-b18-cam2.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 11803,
-		"name": "18-й корпус",
-		"link": "https://streams.kpi.ua/video/webcam-b18-cam3.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 12402,
-		"name": "Бассейн",
-		"link": "https://streams.kpi.ua/video/webcam-b24-cam2.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 12501,
-		"name": "Парк Сосновый 2",
-		"link": "https://streams.kpi.ua/video/webcam-b25-cam1.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 12502,
-		"name": "Парк Сосновый",
-		"link": "https://streams.kpi.ua/video/webcam-b25-cam2.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 12503,
-		"name": "Парк Сосновый",
-		"link": "https://streams.kpi.ua/video/webcam-b25-cam3.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	},
-	{
-		"id": 12504,
-		"name": "Парк Сосновый 3",
-		"link": "https://streams.kpi.ua/video/webcam-b25-cam4.m3u8",
-		"coordinates": {
-			"longitude": 0,
-			"latitude": 0
-		}
-	}
+  {
+    "id": 10101,
+    "name": "Аллея славы",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam1.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10103,
+    "name": "1-й корпус",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam3.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10104,
+    "name": "Парковка за 1-м корпусом",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam4.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10105,
+    "name": "Бухгалтерия",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam5.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10106,
+    "name": "Вежа 2",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam6.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10107,
+    "name": "Вежа",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam7.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10108,
+    "name": "Внутренний дворик 2",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam8.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10109,
+    "name": "Внутренний дворик",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam9.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10110,
+    "name": "Внутр.",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam10.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10111,
+    "name": "Чёрный выход",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam11.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10112,
+    "name": "Парадный",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam12.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10113,
+    "name": "Парковка 1",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam13.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10114,
+    "name": "Парковка 2",
+    "link": "https://streams.kpi.ua/video/webcam-b1-cam14.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10401,
+    "name": "4-й корпус",
+    "link": "https://streams.kpi.ua/video/webcam-b4-cam1.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10402,
+    "name": "Ворота КПИ 1",
+    "link": "https://streams.kpi.ua/video/webcam-b4-cam2.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10403,
+    "name": "Ворота КПИ 2",
+    "link": "https://streams.kpi.ua/video/webcam-b4-cam3.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10405,
+    "name": "Шлагбаум",
+    "link": "https://streams.kpi.ua/video/webcam-b4-cam5.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10406,
+    "name": "Шлагбаум",
+    "link": "https://streams.kpi.ua/video/webcam-b4-cam6.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10601,
+    "name": "Вертолёт",
+    "link": "https://streams.kpi.ua/video/webcam-b6-cam1.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10602,
+    "name": "Патон",
+    "link": "https://streams.kpi.ua/video/webcam-b6-cam2.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10603,
+    "name": "Паровоз",
+    "link": "https://streams.kpi.ua/video/webcam-b6-cam3.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10604,
+    "name": "Парк",
+    "link": "https://streams.kpi.ua/video/webcam-b6-cam4.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10702,
+    "name": "Вход",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam2.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10703,
+    "name": "Площадь Знаний",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam3.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10704,
+    "name": "Лифт",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam4.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10705,
+    "name": "Боковой вход",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam5.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10706,
+    "name": "Аллея за ДК",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam6.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10707,
+    "name": "Бювет",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam7.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10708,
+    "name": "Столовая",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam8.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10709,
+    "name": "Холл",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam9.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10710,
+    "name": "Выход",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam10.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 10711,
+    "name": "Выход",
+    "link": "https://streams.kpi.ua/video/webcam-b7-cam11.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 11201,
+    "name": "12-й корпус",
+    "link": "https://streams.kpi.ua/video/webcam-b12-cam1.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 11202,
+    "name": "Политехническая, 12",
+    "link": "https://streams.kpi.ua/video/webcam-b12-cam2.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 11203,
+    "name": "Политех и Янгель",
+    "link": "https://streams.kpi.ua/video/webcam-b12-cam3.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 11204,
+    "name": "Парк им. Телиги (не работает)",
+    "link": "https://streams.kpi.ua/video/webcam-b12-cam4.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 11401,
+    "name": "Политехническая, 14",
+    "link": "https://streams.kpi.ua/video/webcam-b14-cam1.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 11601,
+    "name": "Политехническая, 16",
+    "link": "https://streams.kpi.ua/video/webcam-b16-cam1.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 11701,
+    "name": "Политехническая, 17 (не работает)",
+    "link": "https://streams.kpi.ua/video/webcam-b17-cam1.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 11802,
+    "name": "18-й корпус",
+    "link": "https://streams.kpi.ua/video/webcam-b18-cam2.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 11803,
+    "name": "18-й корпус",
+    "link": "https://streams.kpi.ua/video/webcam-b18-cam3.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 12402,
+    "name": "Бассейн",
+    "link": "https://streams.kpi.ua/video/webcam-b24-cam2.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 12501,
+    "name": "Парк Сосновый 2",
+    "link": "https://streams.kpi.ua/video/webcam-b25-cam1.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 12502,
+    "name": "Парк Сосновый",
+    "link": "https://streams.kpi.ua/video/webcam-b25-cam2.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 12503,
+    "name": "Парк Сосновый",
+    "link": "https://streams.kpi.ua/video/webcam-b25-cam3.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  },
+  {
+    "id": 12504,
+    "name": "Парк Сосновый 3",
+    "link": "https://streams.kpi.ua/video/webcam-b25-cam4.m3u8",
+    "coordinates": {
+      "longitude": 0,
+      "latitude": 0
+    }
+  }
 ]
