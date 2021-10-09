@@ -66,5 +66,5 @@
 ## Корпус №25
 * [Парк Сосновый 2](https://streams.kpi.ua/video/webcam-b25-cam1.m3u8)
 * [Парк Сосновый](https://streams.kpi.ua/video/webcam-b25-cam2.m3u8)
-* [Парк Сосновый](https://streams.kpi.ua/video/webcam-b25-cam3.m3u8)
+* [Парк Сосновый (не работает)](https://streams.kpi.ua/video/webcam-b25-cam3.m3u8)
 * [Парк Сосновый 3](https://streams.kpi.ua/video/webcam-b25-cam4.m3u8)
